@@ -127,3 +127,5 @@ This project is licensed under the [MIT License](https://github.com/alphadev97/a
 ## Note
 
 **This app is not deployed yet**. I'm planning to enhance the application further by scaling it, updating the UI for a better user experience, implementing advanced data storage solutions, integrating Google authentication, and adding more exciting features.
+
+Check: [Alpha Messaging App v2](https://github.com/alphadev97/alpha-messaging-app-v2)
